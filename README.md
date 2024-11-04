@@ -12,7 +12,7 @@ Este repositório apresenta o **Sistema de Previsão de Estoque de Roupas com IA
 
 ## Demonstração em Vídeo
 
-Assista à demonstração no YouTube: [[Link para o vídeo](https://youtu.be/J-j5_O-lcaM)](https://youtu.be/J-j5_O-lcaM)
+Assista à demonstração no YouTube: (https://youtu.be/J-j5_O-lcaM)
 
 ---
 
